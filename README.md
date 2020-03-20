@@ -1,5 +1,5 @@
 # kelbM_identity
-* [esx_identity](https://github.com/ESX-Org/esx_identity) which I modified with css3
+* [Esx_identity](https://github.com/ESX-Org/esx_identity) which I modified with css3
 
 # Preview
 * https://streamable.com/yxy58
@@ -15,7 +15,7 @@
 - Add this to your `server.cfg`:
 
 ```
-start kelbM_identity
+ensure kelbM_identity
 ```
 
 - If you are using esx_policejob or esx_society, you need to enable the following in the scripts' `config.lua`:
@@ -25,6 +25,6 @@ start kelbM_identity
 ```
 /register
 /charlist
-/charselect
-/chardel
+/charselect(1,2,3)
+/chardel(1,2,3)
 ```
