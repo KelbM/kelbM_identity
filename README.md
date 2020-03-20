@@ -1,8 +1,8 @@
 # kelbM_identity
-[esx_identity](https://github.com/ESX-Org/esx_identity) which I modified with css3
+* [esx_identity](https://github.com/ESX-Org/esx_identity) which I modified with css3
 
 # Preview
-https://streamable.com/yxy58
+* https://streamable.com/yxy58
 
 ## Requirements
 * Dependencies For Full Functionality
